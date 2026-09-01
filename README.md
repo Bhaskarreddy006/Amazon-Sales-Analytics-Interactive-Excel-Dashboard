@@ -1,10 +1,9 @@
-📊 Amazon Sales Analytics — Interactive Excel Dashboard
+**📊Amazon Sales Analytics — Interactive Excel Dashboard**
 An interactive Amazon Sales Analytics Dashboard built using Microsoft Excel to analyze sales performance, customer behavior, product performance, payment methods, delivery status, reviews, and regional trends for 2025.
 This project demonstrates practical skills in data analysis, Excel PivotTables, KPI development, data validation, and dashboard design.
-________________________________________
-🎯 Project Objective
+**🎯 Project Objective**
 The objective of this project is to transform raw Amazon sales data into meaningful business insights using Microsoft Excel.
-The analysis focuses on answering questions such as:
+**The analysis focuses on answering questions such as:**
 •	How much total revenue was generated?
 •	How many orders and units were sold?
 •	Which product categories generated the most sales?
@@ -17,8 +16,7 @@ The analysis focuses on answering questions such as:
 •	How do customer ratings relate to sales?
 •	Which customers contributed the most revenue?
 •	Which Indian states generated the highest sales?
-________________________________________
-🛠️ Tools & Technologies
+**🛠️ Tools & Technologies**
 •	Microsoft Excel
 •	Excel Tables
 •	PivotTables
@@ -28,10 +26,9 @@ ________________________________________
 •	Interactive dashboard
 •	Charts & visualizations
 •	Excel formulas
-________________________________________
-📂 Dataset
-The dataset contains 15,000 Amazon sales records from 2025.
-Key fields include:
+**📂 Dataset**
+**The dataset contains 15,000 Amazon sales records from 2025.
+Key fields include:**
 Field	Description
 Order_ID	Unique order identifier
 Date	Order date
@@ -50,10 +47,9 @@ Region	Geographic region
 Country	Country
 Month	Month of purchase
 Year	Year of purchase
-________________________________________
-📈 Key KPIs
+**📈 Key KPIs
 The project calculates the following key performance indicators:
-KPI	Result
+KPI	Result**
 💰 Total Sales	₹1,11,81,61,803.50
 🛒 Total Orders	15,000
 📦 Total Quantity Sold	44,770
@@ -63,7 +59,6 @@ KPI	Result
 🚚 Delivered Orders	5,075
 🚚 Delivery Rate	33.83%
 Note: The delivery rate was calculated as Delivered Orders ÷ Total Orders.
-________________________________________
 🔍 Analysis Performed
 1. Monthly Sales Analysis
 Sales performance was analyzed across all 12 months of 2025.
@@ -74,9 +69,8 @@ Other strong months included:
 •	May — ₹97.20 million
 •	July — ₹95.18 million
 •	November — ₹94.81 million
-The lowest monthly sales occurred in:
+**The lowest monthly sales occurred in:**
 February — ₹84.996 million
-________________________________________
 2. Category Sales Analysis
 Sales were analyzed across five major product categories.
 Category	Sales
