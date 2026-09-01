@@ -1,5 +1,5 @@
-📊 Amazon Sales Analytics — Interactive Excel Dashboard
-
+**📊 Amazon Sales Analytics — Interactive Excel Dashboard
+**
 An interactive Amazon Sales Analytics Dashboard built using Microsoft Excel to analyze sales performance, customer behavior, product performance, payment methods, delivery status, reviews, and regional trends for 2025.
 
 This project demonstrates practical skills in data analysis, Excel PivotTables, KPI development, data validation, and dashboard design.
